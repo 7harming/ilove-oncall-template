@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<!-- placeholder portrait: nurse_relieved (tools/make-placeholders.mjs) -->
+<ellipse cx="300" cy="300" rx="124" ry="122" fill="#6b3f22"/><path d="M372 238 C478 250 492 390 436 488 C426 430 410 372 366 326 Z" fill="#6b3f22"/>
+<rect x="266" y="420" width="68" height="160" rx="24" fill="#e3b28c"/>
+<path d="M64 800 C76 640 160 572 300 562 C440 572 524 640 536 800 Z" fill="#f4f6f8"/><path d="M246 566 L300 636 L354 566" fill="none" stroke="#e9a3b8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><rect x="364" y="652" width="66" height="38" rx="6" fill="#7fb6d6"/><rect x="374" y="664" width="46" height="6" rx="3" fill="#fff"/>
+<ellipse cx="190" cy="348" rx="18" ry="28" fill="#f2c9a6"/><ellipse cx="410" cy="348" rx="18" ry="28" fill="#f2c9a6"/>
+<ellipse cx="300" cy="332" rx="112" ry="128" fill="#f2c9a6"/>
+<path d="M188 330 C180 212 248 176 300 176 C360 176 424 212 412 330 C396 282 352 250 304 256 C262 250 214 278 188 330 Z" fill="#6b3f22"/>
+<path d="M228 304 Q253 290 278 300" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M322 300 Q347 290 372 304" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M235 350 Q255 362 275 350" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M325 350 Q345 362 365 350" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M270 418 Q300 446 330 418" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+<path d="M412 262 C424 286 428 296 428 302 A16 16 0 0 1 396 302 C396 296 400 286 412 262 Z" fill="#9fd8f2" stroke="#4ba3d0" stroke-width="4"/>
+</svg>

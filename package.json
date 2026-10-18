@@ -1,0 +1,15 @@
+{
+  "name": "ilove-oncall-template",
+  "version": "0.1.0",
+  "private": true,
+  "description": "我熱愛值班 · 一般民眾版範本：瀏覽器 3D 值班遊戲，劇情和病床都是資料",
+  "type": "module",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "test": "node tests/check-data.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "SEE LICENSE IN LICENSE.md"
+}

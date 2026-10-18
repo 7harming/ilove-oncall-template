@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<!-- placeholder portrait: pgy_m_nervous (tools/make-placeholders.mjs) -->
+
+<rect x="266" y="420" width="68" height="160" rx="24" fill="#e3b28c"/>
+<path d="M64 800 C76 640 160 572 300 562 C440 572 524 640 536 800 Z" fill="#f2f4f6"/><path d="M238 566 L300 664 L362 566 Z" fill="#5b8fc9"/><path d="M238 566 L276 720" fill="none" stroke="#c9d1d8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M362 566 L324 720" fill="none" stroke="#c9d1d8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M232 578 C226 652 266 694 300 694 C334 694 374 652 368 578" fill="none" stroke="#4a5560" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><circle cx="300" cy="704" r="16" fill="#9aa5ae"/>
+<ellipse cx="190" cy="348" rx="18" ry="28" fill="#f2c9a6"/><ellipse cx="410" cy="348" rx="18" ry="28" fill="#f2c9a6"/>
+<ellipse cx="300" cy="332" rx="112" ry="128" fill="#f2c9a6"/>
+<path d="M190 336 C178 214 244 178 300 176 C366 178 428 214 410 336 C404 290 380 254 332 248 C300 264 258 264 232 254 C204 270 194 302 190 336 Z" fill="#2b2421"/>
+<path d="M228 304 L278 290" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M322 290 L372 304" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="255" cy="350" r="12" fill="#3b2a24"/><circle cx="345" cy="350" r="12" fill="#3b2a24"/>
+<path d="M268 430 Q278 420 288 430 T308 430 T328 430" fill="none" stroke="#3b2a24" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+
+<path d="M412 262 C424 286 428 296 428 302 A16 16 0 0 1 396 302 C396 296 400 286 412 262 Z" fill="#9fd8f2" stroke="#4ba3d0" stroke-width="4"/>
+</svg>

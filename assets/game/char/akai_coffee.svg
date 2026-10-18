@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+<!-- placeholder portrait: akai_coffee (tools/make-placeholders.mjs) -->
+
+<rect x="266" y="420" width="68" height="160" rx="24" fill="#e3b28c"/>
+<path d="M64 800 C76 640 160 572 300 562 C440 572 524 640 536 800 Z" fill="#4f6f95"/><path d="M252 566 L300 610 L348 566" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="190" cy="348" rx="18" ry="28" fill="#f2c9a6"/><ellipse cx="410" cy="348" rx="18" ry="28" fill="#f2c9a6"/>
+<ellipse cx="300" cy="332" rx="112" ry="128" fill="#f2c9a6"/>
+<path d="M190 336 C178 214 244 178 300 176 C366 178 428 214 410 336 C404 290 380 254 332 248 C300 264 258 264 232 254 C204 270 194 302 190 336 Z" fill="#2a2420"/>
+<path d="M228 304 Q253 290 278 300" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M322 300 Q347 290 372 304" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="255" cy="350" r="12" fill="#3b2a24"/><circle cx="345" cy="350" r="12" fill="#3b2a24"/>
+<path d="M270 418 Q300 446 330 418" fill="none" stroke="#3b2a24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+<ellipse cx="420" cy="740" rx="56" ry="40" fill="#f2c9a6"/><rect x="384" y="618" width="76" height="104" rx="8" fill="#ffffff"/><rect x="384" y="652" width="76" height="34" fill="#a0703f"/><rect x="378" y="606" width="88" height="18" rx="6" fill="#d9dde1"/><path d="M406 588 Q398 570 410 552" fill="none" stroke="#c9d1d8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M436 588 Q428 570 440 552" fill="none" stroke="#c9d1d8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
