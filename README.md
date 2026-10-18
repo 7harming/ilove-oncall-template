@@ -28,7 +28,6 @@ python -m http.server 8790 --bind 127.0.0.1
 
 ```
 index.html              整個遊戲的畫面：開始卡、交班單、床邊、電話、結算……
-favicon.svg
 game/
   game.js               遊戲本體：蓋病房、走路、電話、床邊、計時、結算、分享圖卡
   game.css              所有畫面的樣式
